@@ -239,6 +239,24 @@ header {
     background-color: #087831;
 }
 
+.quemSomos {
+    height: 100%;
+    margin: 0px 150px 30px 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: justify;
+}
+
+.quemSomos p{
+    
+    margin: 3rem;
+    font-family: var(--font-secundary);
+    margin-top: 1rem;
+    text-align: justify;
+    font-size: large;
+}
+
 .seguimentos {
     height: 100%;
     display: grid;
