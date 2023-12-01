@@ -258,6 +258,12 @@ header {
     font-size: x-large;
 }
 
+@media screen and (max-width: 1050px) {
+    .quemSomos p {
+        font-size: medium;
+    }
+}
+
 .seguimentos {
     height: 100%;
     display: grid;
